@@ -18,13 +18,18 @@
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
-# Visual Basic Script (VBS)
+# Visual Basic Script (VBS/VBScript)
 *.vbs linguist-detectable=true
 *.vbs linguist-documentation=false
-# Java
+# Java 8
 *.java linguist-detectable=true
 *.java linguist-documentation=false
-# Python
+# YAML (YAML Ain't Markup Language)
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+# Python 3
 *.py linguist-detectable=true
 *.py linguist-documentation=false
 # XML (eXtensible Markup Language)
@@ -35,9 +40,17 @@
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.rtf linguist-detectable=false
 *.rtf linguist-documentation=false
+# SVG (Scalable Vector Graphics)
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# Plain Text
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 1 (Thursday, 2021 October 21st at 2:56 pm)
-# Line count (including blank lines and compiler line): 44
+# File version: 2 (Thursday, 2021 October 21st at 4:02 pm)
+# Line count (including blank lines and compiler line): 57
 # End of script
