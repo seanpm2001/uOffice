@@ -1,0 +1,5 @@
+# The uOffice DVCS (Document Version Control System) LIBrary
+[submodule "seanpm2001/uOffice_LIBrary_DVCS"]
+	path = uOffice/DocumentFeatures/Version-control/uOffice_DVCS/
+	url = https://github.com/seanpm2001/uOffice_LIBrary_DVCS
+# File version: 1 (2022 Tuesday, March 1st at 3:08 pm)
