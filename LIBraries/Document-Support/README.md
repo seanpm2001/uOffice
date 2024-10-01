@@ -11,7 +11,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Friday, September 27th`
+> **List last updated on:** `2024, Monday, September 30th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -28,7 +28,9 @@ Below is a listing of uOffice document support LIBraries.
 | 0011 | [:octocat: `uOffice LIBrary CBR`](https://github.com/seanpm2001/uOffice_LIBrary_CBR/) | Adds support for the `*.cbr` file format. | uOffice WordProc |
 | 0012 | [:octocat: `uOffice LIBrary PPT`](https://github.com/seanpm2001/uOffice_LIBrary_PPT/) | Adds support for the `*.ppt` file format. | uOffice Presentation |
 | 0013 | [:octocat: `uOffice LIBrary PPTX`](https://github.com/seanpm2001/uOffice_LIBrary_PPTX/) | Adds support for the `*.pptx` file format. | uOffice Presentation |
-| 0014 | [:octocat: `uOffice LIBrary ODS`](https://github.com/seanpm2001/uOffice_LIBrary_ODS/) | Adds support for the `*.ods` file format. | uOffice Presentation |
+| 0014 | [:octocat: `uOffice LIBrary ODS`](https://github.com/seanpm2001/uOffice_LIBrary_ODS/) | Adds support for the `*.ods` file format. | uOffice Spreaded |
+| 0015 | [:octocat: `uOffice LIBrary XLS`](https://github.com/seanpm2001/uOffice_LIBrary_XLS/) | Adds support for the `*.xls` file format. | uOffice Spreaded |
+| 0016 | [:octocat: `uOffice LIBrary XLSX`](https://github.com/seanpm2001/uOffice_LIBrary_XLSX/) | Adds support for the `*.xlsx` file format. | uOffice Spreaded |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -36,7 +38,7 @@ Below is a listing of uOffice document support LIBraries.
 
 # File info
 
-**File version:** `3 (2024, Friday, September 27th at 06:32 pm PST)`
+**File version:** `4 (2024, Monday, September 30th at 08:28 pm PST)`
 
 ***
 
@@ -82,5 +84,18 @@ Below is a listing of uOffice document support LIBraries.
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+### Version 4 (2024, Monday, September 30th at 08:28 pm PST)
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 ***
