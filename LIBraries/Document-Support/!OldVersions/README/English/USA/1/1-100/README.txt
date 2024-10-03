@@ -11,7 +11,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Wednesday, October 2nd`
+> **List last updated on:** `2024, Thursday, October 3rd`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -33,14 +33,45 @@ Below is a listing of uOffice document support LIBraries.
 | 0016 | [:octocat: `uOffice LIBrary XLSX`](https://github.com/seanpm2001/uOffice_LIBrary_XLSX/) | Adds support for the `*.xlsx` file format. | uOffice Spreaded |
 | 0017 | [:octocat: `uOffice LIBrary CSV`](https://github.com/seanpm2001/uOffice_LIBrary_CSV/) | Adds support for the `*.csv` file format. | uOffice Spreaded, uOffice Data Complex |
 | 0018 | [:octocat: `uOffice LIBrary POT`](https://github.com/seanpm2001/uOffice_LIBrary_POT/) | Adds support for the `*.pot` file format. | uOffice Presentation |
+| 0019 | [:octocat: `uOffice LIBrary DOT`](https://github.com/seanpm2001/uOffice_LIBrary_DOT/) | Adds support for the `*.dot` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
 
 ***
 
+## Mimetype definitions
+
+> **List last updated on:** `2024, Thursday, October 3rd`
+
+| 🔃️ Order | File type | File format | Definition |
+|---|---|---|---|
+| 0001 | ODT | `*.odt` | OpenDocument Text (Rich Text document) |
+| 0002 | PDF | `*.pdf` | Portable Document Format (Rich Text document) |
+| 0003 | EPUB | `*.epub` | Electronic PUBlication (eBook format) |
+| 0004 | XPS | `*.xps` | Open XML Paper Specification file (Rich Text document)
+| 0005 | DOC | `*.doc` | Microsoft Word document (prior to Microsoft Office 2007) (Rich Text document) |
+| 0006 | DOCX | `*.docx` | Microsoft Word document (Microsoft Office 2007 and up) (Rich Text document) |
+| 0007 | UOT | `*.uot` | Uniform Office Format Text (Rich Text document) |
+| 0008 | RTF | `*.rtf` | Rich Text Format (Rich Text document) |
+| 0009 | MOBI | `*.mobi` | Mobipocket eBook format (eBook format) |
+| 0010 | DOCBOOK | `*.docbook` | Docbook document (Markup language document) |
+| 0011 | CBR | `*.cbr` | Comic Book Reader archive (eBook format) |
+| 0012 | PPT | `*.ppt` | Microsoft PowerPoint presentation (prior to Microsoft Office 2007) (Presentation file) |
+| 0013 | PPTX | `*.pptx` |  Microsoft PowerPoint presentation (Microsoft Office 2007 and up) (Presentation file) |
+| 0014 | ODS | `*.ods` | Open Document Spreadsheet format (Spreadsheet file) |
+| 0015 | XLS | `*.xls` | Microsoft Excel Spreadsheet (prior to Microsoft Office 2007) (Spreadsheet file) |
+| 0016 | XLSX | `*.xlsx` | Microsoft Excel Spreadsheet (Microsoft Office 2007 and up) (Spreadsheet file) |
+| 0017 | CSV | `*.csv` | Comma Separated Values (text file) |
+| 0018 | POT | `*.pot` | Microsoft PowerPoint Presentation template file (prior to Microsoft Office 2007) (Presentation file) (also: template file) |
+| 0019 | DOT | `*.dot` | Microsoft Word document template file (prior to Microsoft Office 2007) (Rich Text document) (also: template file) |
+
+> **Note** This list is also ordered by repository creation date.
+
+***
+
 # File info
 
-**File version:** `6 (2024, Wednesday, October 2nd at 08:56 pm PST)`
+**File version:** `7 (2024, Thursday, October 3rd at 03:25 pm PST)`
 
 ***
 
@@ -125,5 +156,20 @@ Below is a listing of uOffice document support LIBraries.
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+### Version 7 (2024, Thursday, October 3rd at 03:25 pm PST)
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 1 new entry
+- [x] Added the `Mimetype definitions` section
+- - [x] Added 18 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 ***
