@@ -11,7 +11,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Tuesday, October 1st`
+> **List last updated on:** `2024, Wednesday, October 2nd`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -32,6 +32,7 @@ Below is a listing of uOffice document support LIBraries.
 | 0015 | [:octocat: `uOffice LIBrary XLS`](https://github.com/seanpm2001/uOffice_LIBrary_XLS/) | Adds support for the `*.xls` file format. | uOffice Spreaded |
 | 0016 | [:octocat: `uOffice LIBrary XLSX`](https://github.com/seanpm2001/uOffice_LIBrary_XLSX/) | Adds support for the `*.xlsx` file format. | uOffice Spreaded |
 | 0017 | [:octocat: `uOffice LIBrary CSV`](https://github.com/seanpm2001/uOffice_LIBrary_CSV/) | Adds support for the `*.csv` file format. | uOffice Spreaded, uOffice Data Complex |
+| 0018 | [:octocat: `uOffice LIBrary POT`](https://github.com/seanpm2001/uOffice_LIBrary_POT/) | Adds support for the `*.pot` file format. | uOffice Presentation |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -39,7 +40,7 @@ Below is a listing of uOffice document support LIBraries.
 
 # File info
 
-**File version:** `5 (2024, Tuesday, October 1st at 08:54 pm PST)`
+**File version:** `6 (2024, Wednesday, October 2nd at 08:56 pm PST)`
 
 ***
 
@@ -111,5 +112,18 @@ Below is a listing of uOffice document support LIBraries.
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+### Version 6 (2024, Wednesday, October 2nd at 08:56 pm PST)
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 1 new entry
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 ***
