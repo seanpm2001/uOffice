@@ -1,17 +1,25 @@
 
 ***
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this entire page</b></p></summary>
+
 # uOffice document support software LIBraries
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the title section</b></p></summary>
 
 Below is a listing of uOffice document support LIBraries.
 
+</details> <!-- End of title section !-->
+
 ## Individual file formats
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the individual file formats section</b></p></summary>
 
 | :octocat: |
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Thursday, October 3rd`
+> **List last updated on:** `2024, Friday, October 4th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -34,14 +42,19 @@ Below is a listing of uOffice document support LIBraries.
 | 0017 | [:octocat: `uOffice LIBrary CSV`](https://github.com/seanpm2001/uOffice_LIBrary_CSV/) | Adds support for the `*.csv` file format. | uOffice Spreaded, uOffice Data Complex |
 | 0018 | [:octocat: `uOffice LIBrary POT`](https://github.com/seanpm2001/uOffice_LIBrary_POT/) | Adds support for the `*.pot` file format. | uOffice Presentation |
 | 0019 | [:octocat: `uOffice LIBrary DOT`](https://github.com/seanpm2001/uOffice_LIBrary_DOT/) | Adds support for the `*.dot` file format. | uOffice WordProc |
+| 0020 | [:octocat: `uOffice LIBrary FODT`](https://github.com/seanpm2001/uOffice_LIBrary_FODT/) | Adds support for the `*.fodt` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
+
+</details> <!-- End of individual file formats section !-->
 
 ***
 
 ## Mimetype definitions
 
-> **List last updated on:** `2024, Thursday, October 3rd`
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
+
+> **List last updated on:** `2024, Friday, October 4th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -64,20 +77,60 @@ Below is a listing of uOffice document support LIBraries.
 | 0017 | CSV | `*.csv` | Comma Separated Values (text file) |
 | 0018 | POT | `*.pot` | Microsoft PowerPoint Presentation template file (prior to Microsoft Office 2007) (Presentation file) (also: template file) |
 | 0019 | DOT | `*.dot` | Microsoft Word document template file (prior to Microsoft Office 2007) (Rich Text document) (also: template file) |
+| 0020 | FODT | `*.fodt` | OpenDocument Flat XML Text Document (Rich Text document) |
 
 > **Note** This list is also ordered by repository creation date.
 
-***
-
-# File info
-
-**File version:** `7 (2024, Thursday, October 3rd at 03:25 pm PST)`
+</details> <!-- End of Mimetype definitions section !-->
 
 ***
 
-## File history
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
+
+# [File info 📜](#File-info-)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
+
+<table>
+  <tr>
+    <td>
+
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `8 (2024, Friday, October 4th at 04:17 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,343` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `01,920` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `013,733` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `011,625` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `013,769` <!-- TODO: This line should be updated daily !-->
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details> <!-- End of file info section !-->
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
+
+***
+
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
+
+## [File history ⏳️](#File-history-)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+---
 
 ### Version 1 (2024, Wednesday, September 25th at 02:05 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -91,7 +144,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
 
+</details> <!-- End of V1 !-->
+
+---
+
 ### Version 2 (2024, Thursday, September 26th at 03:39 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -105,7 +164,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
 
+</details> <!-- End of V2 !-->
+
+---
+
 ### Version 3 (2024, Friday, September 27th at 06:32 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 3</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -118,7 +183,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
+</details> <!-- End of V3 !-->
+
+---
+
 ### Version 4 (2024, Monday, September 30th at 08:28 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -131,7 +202,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
+</details> <!-- End of V4 !-->
+
+---
+
 ### Version 5 (2024, Tuesday, October 1st at 08:54 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 5</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -144,7 +221,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
+</details> <!-- End of V5 !-->
+
+---
+
 ### Version 6 (2024, Wednesday, October 2nd at 08:56 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 6</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -157,7 +240,13 @@ Below is a listing of uOffice document support LIBraries.
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
+</details> <!-- End of V6 !-->
+
+---
+
 ### Version 7 (2024, Thursday, October 3rd at 03:25 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 7</b></p></summary>
 
 > **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -166,10 +255,88 @@ Below is a listing of uOffice document support LIBraries.
 - [x] Updated the `Individual file formats` section
 - - [x] Added 1 new entry
 - [x] Added the `Mimetype definitions` section
-- - [x] Added 18 new entries
+- - [x] Added 19 new entries
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details> <!-- End of V7 !-->
+
+---
+
+### Version 8 (2024, Friday, October 4th at 04:17 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Made all sections collapse-able
+- [x] Updated the `Individual file formats` section
+- - [x] Added 1 new entry
+- [x] Added the `Mimetype definitions` section
+- - [x] Added 1 new entry
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- [x] Added the `Footer` section
+- [ ] No other changes in version 8
+
+</details> <!-- End of V8 !-->
+
+---
+
+_End of file history section._
+
+</details> <!-- End of file history section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
+***
+
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
+
+# [Footer 🦶️](#Footer-)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
+
+**You have reached the end of this file.**
+
+<table>
+  <tr>
+    <td>
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
+
+###### [EOF](#EOF)
+
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of footer !-->
+
+_End of footer._
+
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
+
+---
+
+_End of page._
+
+</details> <!-- End of page !-->
 
 ***
