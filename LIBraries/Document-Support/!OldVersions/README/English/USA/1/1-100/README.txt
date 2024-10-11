@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Wednesday, October 9th`
+> **List last updated on:** `2024, Thursday, October 10th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -44,6 +44,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0019 | [:octocat: `uOffice LIBrary DOT`](https://github.com/seanpm2001/uOffice_LIBrary_DOT/) | Adds support for the `*.dot` file format. | uOffice WordProc |
 | 0020 | [:octocat: `uOffice LIBrary FODT`](https://github.com/seanpm2001/uOffice_LIBrary_FODT/) | Adds support for the `*.fodt` file format. | uOffice WordProc |
 | 0021 | [:octocat: `uOffice LIBrary DOTX`](https://github.com/seanpm2001/uOffice_LIBrary_DOTX/) | Adds support for the `*.dotx` file format. | uOffice WordProc |
+| 0022 | [:octocat: `uOffice LIBrary XML`](https://github.com/seanpm2001/uOffice_LIBrary_XML/) | Adds support for the `*.xml` file format. | uOffice WordProc, uOffice Spreaded, uOffice Presentation, uOffice Data Complex |
+| 0023 | [:octocat: `uOffice LIBrary DOCM`](https://github.com/seanpm2001/uOffice_LIBrary_DOCM/) | Adds support for the `*.docm` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -55,7 +57,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Wednesday, October 9th`
+> **List last updated on:** `2024, Thursday, October 10th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -80,6 +82,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0019 | DOT | `*.dot` | Microsoft Word document template file (prior to Microsoft Office 2007) (Rich Text document) (also: template file) |
 | 0020 | FODT | `*.fodt` | OpenDocument Flat XML Text Document (Rich Text document) |
 | 0021 | DOTX | `*.dotx` | Microsoft Word document template file (Microsoft Office 2007 and up) (Rich Text document) (also: template file) |
+| 0022 | XML | `*.xml` | eXtensible Markup Language (XML) file (Markup language document) (can be used for a variety of purposes, a better definition is needed here) |
+| 0023 | DOCM | `*.docm` | Microsoft Word master document file (Microsoft Office 2007 and up) (Rich Text document) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -98,12 +102,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `9 (2024, Wednesday, October 9th at 04:36 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,367` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `02,064` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `014,717` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `012,450` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `014,753` <!-- TODO: This line should be updated daily !-->
+- **File version:** `10 (2024, Thursday, October 10th at 05:17 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,392` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `02,251` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `016,026` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `013,555` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `016,062` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -309,6 +313,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 9
 
 </details> <!-- End of V9 !-->
+
+---
+
+### Version 10 (2024, Thursday, October 10th at 05:17 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 10</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- End of V10 !-->
 
 ---
 
