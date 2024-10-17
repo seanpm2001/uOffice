@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Wednesday, October 16th`
+> **List last updated on:** `2024, Thursday, October 17th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -54,6 +54,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0029 | [:octocat: `uOffice LIBrary XLTX`](https://github.com/seanpm2001/uOffice_LIBrary_XLTX/) | Adds support for the `*.xltx` file format. | uOffice Spreaded |
 | 0030 | [:octocat: `uOffice LIBrary XLT`](https://github.com/seanpm2001/uOffice_LIBrary_XLT/) | Adds support for the `*.xlt` file format. | uOffice Spreaded |
 | 0031 | [:octocat: `uOffice LIBrary DIF`](https://github.com/seanpm2001/uOffice_LIBrary_DIF/) | Adds support for the `*.dif` file format. | uOffice Spreaded |
+| 0032 | [:octocat: `uOffice LIBrary SLK`](https://github.com/seanpm2001/uOffice_LIBrary_SLK/) | Adds support for the `*.slk` file format. | uOffice Spreaded |
+| 0033 | [:octocat: `uOffice LIBrary XLSM`](https://github.com/seanpm2001/uOffice_LIBrary_XLSM/) | Adds support for the `*.xlsm` file format. | uOffice Spreaded |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -100,6 +102,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0029 | XLTX | `*.xltx` | Microsoft Excel spreadsheet template file (Microsoft Office 2007 and up) (Spreadsheet file) (also: template file) |
 | 0030 | XLT | `*.xlt` | Microsoft Excel spreadsheet template file (prior to Microsoft Office 2007) (Spreadsheet file) (also: template file) |
 | 0031 | DIF | `*.dif` | Data Interchange Format file (Spreadsheet file) |
+| 0032 | SLK | `*.slk` | Microsoft Excel import format file (Import file) |
+| 0033 | XLSM | `*.xlsm` | Microsoft Excel macro-enabled workbook file (Microsoft Office 2007 and up) (Spreadsheet file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -118,12 +122,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `14 (2024, Wednesday, October 16th at 12:32 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,492` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `02,914` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `020,740` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `017,540` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `020,776` <!-- TODO: This line should be updated daily !-->
+- **File version:** `15 (2024, Thursday, October 17th at 04:26 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,517` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `03,079` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `021,898` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `018,517` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `021,934` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -434,6 +438,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 14
 
 </details> <!-- End of V14 !-->
+
+---
+
+### Version 15 (2024, Thursday, October 17th at 04:26 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 15</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details> <!-- End of V15 !-->
 
 ---
 
