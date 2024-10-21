@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Friday, October 18th
+//// As of 2024, Monday, October 21st
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -34,7 +34,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (37)
+//// LIBraries (39)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -73,10 +73,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_SLK
 https://github.com/seanpm2001/uOffice_LIBrary_XLSM
 https://github.com/seanpm2001/uOffice_LIBrary_ODP
 https://github.com/seanpm2001/uOffice_LIBrary_OTP
+https://github.com/seanpm2001/uOffice_LIBrary_ODG
+https://github.com/seanpm2001/uOffice_LIBrary_FODP
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 45
-//// 1+1+1+1+2+2+37=45
+//// Repo count (uOffice): 47
+//// 1+1+1+1+2+2+39=47
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -96,15 +98,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 48
-//// 43+5=48
+//// Total repo count: 52
+//// 47+5=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2024, Friday, October 18th at 05:50 pm PST)
-//// Line count (including blank lines and compiler line): 111
+//// File version: 18 (2024, Monday, October 21st at 03:50 pm PST)
+//// Line count (including blank lines and compiler line): 113
 //// ----------------------------------------------------- \\\\
 
 //// End of file
