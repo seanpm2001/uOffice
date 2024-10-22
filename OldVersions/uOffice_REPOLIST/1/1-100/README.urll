@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Monday, October 21st
+//// As of 2024, Tuesday, October 22nd
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -34,7 +34,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (39)
+//// LIBraries (41)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -75,10 +75,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_ODP
 https://github.com/seanpm2001/uOffice_LIBrary_OTP
 https://github.com/seanpm2001/uOffice_LIBrary_ODG
 https://github.com/seanpm2001/uOffice_LIBrary_FODP
+https://github.com/seanpm2001/uOffice_LIBrary_UOP
+https://github.com/seanpm2001/uOffice_LIBrary_POTX
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 47
-//// 1+1+1+1+2+2+39=47
+//// Repo count (uOffice): 49
+//// 1+1+1+1+2+2+41=49
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -98,15 +100,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 52
-//// 47+5=52
+//// Total repo count: 54
+//// 49+5=54
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 18 (2024, Monday, October 21st at 03:50 pm PST)
-//// Line count (including blank lines and compiler line): 113
+//// File version: 19 (2024, Tuesday, October 22nd at 02:15 pm PST)
+//// Line count (including blank lines and compiler line): 115
 //// ----------------------------------------------------- \\\\
 
 //// End of file
