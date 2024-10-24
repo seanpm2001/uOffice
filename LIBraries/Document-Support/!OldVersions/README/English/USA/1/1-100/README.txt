@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Tuesday, October 22nd`
+> **List last updated on:** `2024, Wednesday, October 23rd`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -62,6 +62,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0037 | [:octocat: `uOffice LIBrary FODP`](https://github.com/seanpm2001/uOffice_LIBrary_FODG/) | Adds support for the `*.fodp` file format. | uOffice Presentation |
 | 0038 | [:octocat: `uOffice LIBrary UOP`](https://github.com/seanpm2001/uOffice_LIBrary_UOP/) | Adds support for the `*.uop` file format. | uOffice Presentation |
 | 0039 | [:octocat: `uOffice LIBrary POTX`](https://github.com/seanpm2001/uOffice_LIBrary_POTX/) | Adds support for the `*.potx` file format. | uOffice Presentation |
+| 0040 | [:octocat: `uOffice LIBrary PPSX`](https://github.com/seanpm2001/uOffice_LIBrary_PPSX/) | Adds support for the `*.ppsx` file format. | uOffice Presentation |
+| 0041 | [:octocat: `uOffice LIBrary PPS`](https://github.com/seanpm2001/uOffice_LIBrary_PPS/) | Adds support for the `*.pps` file format. | uOffice Presentation |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -73,7 +75,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Tuesday, October 22nd`
+> **List last updated on:** `2024, Wednesday, October 23rd`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -116,6 +118,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0037 | FODP | `*.fodp` | OpenDocument  Flat XML Presentation file (Presentation file) |
 | 0038 | UOP | `*.uop` | Uniform Office Format Presentation file (Presentation file) |
 | 0039 | POTX | `*.potx` | Microsoft PowerPoint presentation template file (Microsoft Office 2007 and up) (Presentation) (also: template file) |
+| 0040 | PPSX | `*.ppsx` | Microsoft PowerPoint slideshow file (Microsoft Office 2007 and up) (Presentation file) |
+| 0041 | PPS | `*.pps` | Microsoft PowerPoint slideshow file (Prior to Microsoft Office 2007) (Presentation) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -134,12 +138,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `18 (2024, Tuesday, October 22nd at 02:17 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,592` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `03,561` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `025,371` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `021,456` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `025,407` <!-- TODO: This line should be updated daily !-->
+- **File version:** `19 (2024, Wednesday, October 23rd at 05:05 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,617` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `03,727` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `026,574` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `022,476` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `026,610` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -534,6 +538,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 18
 
 </details> <!-- End of V18 !-->
+
+---
+
+### Version 19 (2024, Wednesday, October 23rd at 05:05 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 19</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
+
+</details> <!-- End of V19 !-->
 
 ---
 
