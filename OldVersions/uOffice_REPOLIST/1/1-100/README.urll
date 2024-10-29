@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Sunday, October 27th
+//// As of 2024, Monday, October 28th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -34,7 +34,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (45)
+//// LIBraries (47)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -81,10 +81,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_PPSX
 https://github.com/seanpm2001/uOffice_LIBrary_PPS
 https://github.com/seanpm2001/uOffice_LIBrary_PPTM
 https://github.com/seanpm2001/uOffice_LIBrary_ODF
+https://github.com/seanpm2001/uOffice_LIBrary_SDA
+https://github.com/seanpm2001/uOffice_LIBrary_SDC
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 53
-//// 1+1+1+1+2+2+45=53
+//// Repo count (uOffice): 55
+//// 1+1+1+1+2+2+47=55
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -104,15 +106,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 58
-//// 53+5=58
+//// Total repo count: 60
+//// 55+5=60
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 21 (2024, Sunday, October 27th at 01:55 pm PST)
-//// Line count (including blank lines and compiler line): 119
+//// File version: 22 (2024, Monday, October 28th at 10:51 pm PST)
+//// Line count (including blank lines and compiler line): 121
 //// ----------------------------------------------------- \\\\
 
 //// End of file
