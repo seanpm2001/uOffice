@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Monday, October 28th`
+> **List last updated on:** `2024, Tuesday, October 29th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -68,6 +68,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0043 | [:octocat: `uOffice LIBrary ODF`](https://github.com/seanpm2001/uOffice_LIBrary_ODF/) | Adds support for the `*.odf` file format. | uOffice Spreaded |
 | 0044 | [:octocat: `uOffice LIBrary SDA`](https://github.com/seanpm2001/uOffice_LIBrary_SDA/) | Adds support for the `*.sda` file format. | uOffice Presentation |
 | 0045 | [:octocat: `uOffice LIBrary SDC`](https://github.com/seanpm2001/uOffice_LIBrary_SDC/) | Adds support for the `*.sdc` file format. | uOffice Spreaded |
+| 0046 | [:octocat: `uOffice LIBrary SDD`](https://github.com/seanpm2001/uOffice_LIBrary_SDD/) | Adds support for the `*.sdd` file format. | uOffice Presentation |
+| 0047 | [:octocat: `uOffice LIBrary OXT`](https://github.com/seanpm2001/uOffice_LIBrary_OXT/) | Adds support for the `*.oxt` file format. | uOffice WordProc, uOffice Spreaded, uOffice Presentation, uOffice Data Complex |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -79,7 +81,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Monday, October 28th`
+> **List last updated on:** `2024, Tuesday, October 29th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -128,6 +130,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0043 | ODF | `*.odf` | OpenDocument Mathematical formula file (formula file) |
 | 0044 | SDA | `*.sda` | StarOffice drawing file file (Graphics file) |
 | 0045 | SDC | `*.sdc` | StarOffice spreadsheet file (spreadsheet file) |
+| 0046 | SDD | `*.sdd` | StarOffice presentation file (presentation file) |
+| 0047 | OXT | `*.oxt` | OpenOffice Extension file (plugin file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -146,12 +150,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `21 (2024, Monday, October 28th at 10:54 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,667` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,046` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `028,843` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `024,393` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `028,879` <!-- TODO: This line should be updated daily !-->
+- **File version:** `22 (2024, Tuesday, October 29th at 09:06 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,692` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,208` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `030,012` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `025,383` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `030,048` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -609,6 +613,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 21
 
 </details> <!-- End of V21 !-->
+
+---
+
+### Version 22 (2024, Tuesday, October 29th at 09:06 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 22</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
+
+</details> <!-- End of V22 !-->
 
 ---
 
