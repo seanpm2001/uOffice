@@ -2,15 +2,19 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Thursday, October 31st
+//// As of 2024, Friday, November 1st
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
 //// ----------------------------------------------------- \\\\
 
-//// Core (1)
+//// Core (5)
 
 https://github.com/seanpm2001/uOffice
+https://github.com/seanpm2001/uOffice_WordProc
+https://github.com/seanpm2001/uOffice_Spreaded
+https://github.com/seanpm2001/uOffice_Presentation
+https://github.com/seanpm2001/uOffice_Data-Complex
 
 //// Documentation (1)
 
@@ -34,7 +38,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (53)
+//// LIBraries (55)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -89,10 +93,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_OTT
 https://github.com/seanpm2001/uOffice_LIBrary_SDP
 https://github.com/seanpm2001/uOffice_LIBrary_SDW
 https://github.com/seanpm2001/uOffice_LIBrary_SMF
+https://github.com/seanpm2001/uOffice_LIBrary_STC
+https://github.com/seanpm2001/uOffice_LIBrary_STD
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 61
-//// 1+1+1+1+2+2+53=61
+//// Repo count (uOffice): 67
+//// 5+1+1+1+2+2+55=67
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -112,15 +118,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 66
-//// 61+5=66
+//// Total repo count: 72
+//// 67+5=72
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 25 (2024, Thursday, October 31st at 06:47 pm PST)
-//// Line count (including blank lines and compiler line): 127
+//// File version: 26 (2024, Friday, November 1st at 07:39 pm PST)
+//// Line count (including blank lines and compiler line): 133
 //// ----------------------------------------------------- \\\\
 
 //// End of file
