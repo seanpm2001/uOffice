@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Friday, November 1st
+//// As of 2024, Saturday, November 2nd
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -16,9 +16,10 @@ https://github.com/seanpm2001/uOffice_Spreaded
 https://github.com/seanpm2001/uOffice_Presentation
 https://github.com/seanpm2001/uOffice_Data-Complex
 
-//// Documentation (1)
+//// Documentation (2)
 
 https://github.com/seanpm2001/uOffice_Docs
+https://github.com/seanpm2001/uOffice_WordProc_Docs
 
 //// Packages (1)
 
@@ -97,8 +98,8 @@ https://github.com/seanpm2001/uOffice_LIBrary_STC
 https://github.com/seanpm2001/uOffice_LIBrary_STD
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 67
-//// 5+1+1+1+2+2+55=67
+//// Repo count (uOffice): 68
+//// 5+2+1+1+2+2+55=68
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -118,15 +119,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 72
-//// 67+5=72
+//// Total repo count: 73
+//// 68+5=73
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 26 (2024, Friday, November 1st at 07:39 pm PST)
-//// Line count (including blank lines and compiler line): 133
+//// File version: 27 (2024, Saturday, November 2nd at 07:51 pm PST)
+//// Line count (including blank lines and compiler line): 134
 //// ----------------------------------------------------- \\\\
 
 //// End of file
