@@ -1,5 +1,4 @@
-https://github.com/seanpm2001/uOffice_LIBrary_STC
-https://github.com/seanpm2001/uOffice_LIBrary_STD
+
 ***
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this entire page</b></p></summary>
@@ -20,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Friday, November 1st`
+> **List last updated on:** `2024, Sunday, November 3rd`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -77,6 +76,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0051 | [:octocat: `uOffice LIBrary SMF`](https://github.com/seanpm2001/uOffice_LIBrary_SMF/) | Adds support for the `*.smf` file format. | uOffice Spreaded |
 | 0052 | [:octocat: `uOffice LIBrary STC`](https://github.com/seanpm2001/uOffice_LIBrary_STC/) | Adds support for the `*.stc` file format. | uOffice Spreaded |
 | 0053 | [:octocat: `uOffice LIBrary STD`](https://github.com/seanpm2001/uOffice_LIBrary_STD/) | Adds support for the `*.std` file format. | uOffice Presentation |
+| 0054 | [:octocat: `uOffice LIBrary MML`](https://github.com/seanpm2001/uOffice_LIBrary_MML/) | Adds support for the `*.mml` file format. | uOffice Spreaded |
+| 0055 | [:octocat: `uOffice LIBrary DB`](https://github.com/seanpm2001/uOffice_LIBrary_DB/) | Adds support for the `*.db` file format. | uOffice Data Complex |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -88,7 +89,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Friday, November 1st`
+> **List last updated on:** `2024, Sunday, November 3rd`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -145,6 +146,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0051 | SMF | `*.smf` | StarMath formula file (formula file) |
 | 0052 | STC | `*.stc` | StarMath Calc Spreadsheet template file (spreadsheet file) (also: template file) |
 | 0053 | STD | `*.std` | Apache OpenOffice Drawing Template file (graphics file) (also: template file) |
+| 0054 | MML | `*.mml` | Mathematical Markup Language file (formula file) |
+| 0055 | DB | `*.db` | Database file (data file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -163,12 +166,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `25 (2024, Friday, November 1st at 07:41 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,768` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,708` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `033,546` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `028,379` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `033,582` <!-- TODO: This line should be updated daily !-->
+- **File version:** `26 (2024, Sunday, November 3rd at 05:15 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,792` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,850` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `034,531` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `029,192` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `034,567` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -710,6 +713,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 25
 
 </details> <!-- End of V25 !-->
+
+---
+
+### Version 26 (2024, Sunday, November 3rd at 05:15 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 26</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 26
+- [ ] No other changes in version 26
+
+</details> <!-- End of V26 !-->
 
 ---
 
