@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Sunday, November 3rd
+//// As of 2024, Monday, November 4th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -39,7 +39,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (57)
+//// LIBraries (59)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -98,10 +98,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_STC
 https://github.com/seanpm2001/uOffice_LIBrary_STD
 https://github.com/seanpm2001/uOffice_LIBrary_MML
 https://github.com/seanpm2001/uOffice_LIBrary_DB
+https://github.com/seanpm2001/uOffice_LIBrary_STI
+https://github.com/seanpm2001/uOffice_LIBrary_STW
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 70
-//// 5+2+1+1+2+2+57=70
+//// Repo count (uOffice): 72
+//// 5+2+1+1+2+2+59=72
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -121,15 +123,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 73
-//// 68+5=73
+//// Total repo count: 77
+//// 72+5=77
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 28 (2024, Sunday, November 3rd at 05:12 pm PST)
-//// Line count (including blank lines and compiler line): 136
+//// File version: 29 (2024, Monday, November 4th at 08:18 pm PST)
+//// Line count (including blank lines and compiler line): 138
 //// ----------------------------------------------------- \\\\
 
 //// End of file
