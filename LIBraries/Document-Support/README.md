@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Wednesday, November 6th`
+> **List last updated on:** `2024, Thursday, November 7th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -84,6 +84,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0059 | [:octocat: `uOffice LIBrary SXG`](https://github.com/seanpm2001/uOffice_LIBrary_SXG/) | Adds support for the `*.sxg` file format. | uOffice WordProc |
 | 0060 | [:octocat: `uOffice LIBrary SXI`](https://github.com/seanpm2001/uOffice_LIBrary_SXI/) | Adds support for the `*.sxi` file format. | uOffice Presentation |
 | 0061 | [:octocat: `uOffice LIBrary SXM`](https://github.com/seanpm2001/uOffice_LIBrary_SXM/) | Adds support for the `*.sxm` file format. | uOffice Spreaded |
+| 0062 | [:octocat: `uOffice LIBrary SXW`](https://github.com/seanpm2001/uOffice_LIBrary_SXW/) | Adds support for the `*.sxw` file format. | uOffice WordProc |
+| 0063 | [:octocat: `uOffice LIBrary VSD`](https://github.com/seanpm2001/uOffice_LIBrary_VSD/) | Adds support for the `*.vsd` file format. | uOffice Presentation |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -95,7 +97,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Wednesday, November 6th`
+> **List last updated on:** `2024, Thursday, November 7th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -160,6 +162,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0059 | SXG | `*.sxg` | Apache OpenOffice Master document file (Rich Text Format file) |
 | 0060 | SXI | `*.sxi` | StarOffice Impress presentation file (Spreadsheet file) |
 | 0061 | SXM | `*.sxm` | StarMath Formula file (Formula file) |
+| 0062 | SXW | `*.sxw` | StarOffice Writer document file (Rich Text format document file) |
+| 0063 | VSD | `*.vsd` | Microsoft Visio Drawing file (Prior to Microsoft Office 2007) (Graphics file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -178,12 +182,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `29 (2024, Wednesday, November 6th at 05:32 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,867` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,331` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `037,944` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `032,073` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `037,980` <!-- TODO: This line should be updated daily !-->
+- **File version:** `30 (2024, Thursday, November 7th at 07:18 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,892` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,496` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `039,100` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `033,047` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `039,136` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -809,6 +813,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 29
 
 </details> <!-- End of V29 !-->
+
+---
+
+### Version 30 (2024, Thursday, November 7th at 07:18 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 30</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 30
+- [ ] No other changes in version 30
+
+</details> <!-- End of V30 !-->
 
 ---
 
