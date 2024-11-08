@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Wednesday, November 6th
+//// As of 2024, Thursday, November 7th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -39,7 +39,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (63)
+//// LIBraries (65)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -104,10 +104,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_SXC
 https://github.com/seanpm2001/uOffice_LIBrary_SXG
 https://github.com/seanpm2001/uOffice_LIBrary_SXI
 https://github.com/seanpm2001/uOffice_LIBrary_SXM
+https://github.com/seanpm2001/uOffice_LIBrary_SXW
+https://github.com/seanpm2001/uOffice_LIBrary_VSD
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 76
-//// 5+2+1+1+2+2+63=76
+//// Repo count (uOffice): 78
+//// 5+2+1+1+2+2+65=78
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -127,15 +129,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 79
-//// 74+5=79
+//// Total repo count: 81
+//// 76+5=81
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 31 (2024, Wednesday, November 6th at 05:30 pm PST)
-//// Line count (including blank lines and compiler line): 142
+//// File version: 32 (2024, Thursday, November 7th at 07:16 pm PST)
+//// Line count (including blank lines and compiler line): 144
 //// ----------------------------------------------------- \\\\
 
 //// End of file
