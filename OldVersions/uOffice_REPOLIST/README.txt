@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Thursday, November 7th
+//// As of 2024, Friday, November 8th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -39,7 +39,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (65)
+//// LIBraries (67)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -106,10 +106,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_SXI
 https://github.com/seanpm2001/uOffice_LIBrary_SXM
 https://github.com/seanpm2001/uOffice_LIBrary_SXW
 https://github.com/seanpm2001/uOffice_LIBrary_VSD
+https://github.com/seanpm2001/uOffice_LIBrary_VSDX
+https://github.com/seanpm2001/uOffice_LIBrary_WDB
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 78
-//// 5+2+1+1+2+2+65=78
+//// Repo count (uOffice): 80
+//// 5+2+1+1+2+2+67=80
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -129,15 +131,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 81
-//// 76+5=81
+//// Total repo count: 85
+//// 80+5=85
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 32 (2024, Thursday, November 7th at 07:16 pm PST)
-//// Line count (including blank lines and compiler line): 144
+//// File version: 33 (2024, Friday, November 8th at 07:10 pm PST)
+//// Line count (including blank lines and compiler line): 146
 //// ----------------------------------------------------- \\\\
 
 //// End of file
