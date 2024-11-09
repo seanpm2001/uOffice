@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Thursday, November 7th`
+> **List last updated on:** `2024, Friday, November 8th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -86,6 +86,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0061 | [:octocat: `uOffice LIBrary SXM`](https://github.com/seanpm2001/uOffice_LIBrary_SXM/) | Adds support for the `*.sxm` file format. | uOffice Spreaded |
 | 0062 | [:octocat: `uOffice LIBrary SXW`](https://github.com/seanpm2001/uOffice_LIBrary_SXW/) | Adds support for the `*.sxw` file format. | uOffice WordProc |
 | 0063 | [:octocat: `uOffice LIBrary VSD`](https://github.com/seanpm2001/uOffice_LIBrary_VSD/) | Adds support for the `*.vsd` file format. | uOffice Presentation |
+| 0064 | [:octocat: `uOffice LIBrary VSDX`](https://github.com/seanpm2001/uOffice_LIBrary_VSDX/) | Adds support for the `*.vsdx` file format. | uOffice Presentation |
+| 0065 | [:octocat: `uOffice LIBrary WDB`](https://github.com/seanpm2001/uOffice_LIBrary_WDB/) | Adds support for the `*.wdb` file format. | uOffice Data Complex |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -97,7 +99,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Thursday, November 7th`
+> **List last updated on:** `2024, Friday, November 8th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -164,6 +166,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0061 | SXM | `*.sxm` | StarMath Formula file (Formula file) |
 | 0062 | SXW | `*.sxw` | StarOffice Writer document file (Rich Text format document file) |
 | 0063 | VSD | `*.vsd` | Microsoft Visio Drawing file (Prior to Microsoft Office 2007) (Graphics file) |
+| 0064 | VSDX | `*.vsdx` | Microsoft Visio Drawing file (Microsoft Office 2007 and up) (Graphics file) |
+| 0065 | WDB | `*.wdb` | Microsoft Works Database file (Database file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -182,12 +186,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `30 (2024, Thursday, November 7th at 07:18 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,892` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,496` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `039,100` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `033,047` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `039,136` <!-- TODO: This line should be updated daily !-->
+- **File version:** `31 (2024, Friday, November 8th at 07:12 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,917` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,659` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `040,239` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `034,006` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `040,275` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -834,6 +838,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 30
 
 </details> <!-- End of V30 !-->
+
+---
+
+### Version 31 (2024, Friday, November 8th at 07:12 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 31</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 31
+- [ ] No other changes in version 31
+
+</details> <!-- End of V31 !-->
 
 ---
 
