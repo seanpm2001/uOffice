@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Friday, November 8th`
+> **List last updated on:** `2024, Monday, November 11th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -88,6 +88,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0063 | [:octocat: `uOffice LIBrary VSD`](https://github.com/seanpm2001/uOffice_LIBrary_VSD/) | Adds support for the `*.vsd` file format. | uOffice Presentation |
 | 0064 | [:octocat: `uOffice LIBrary VSDX`](https://github.com/seanpm2001/uOffice_LIBrary_VSDX/) | Adds support for the `*.vsdx` file format. | uOffice Presentation |
 | 0065 | [:octocat: `uOffice LIBrary WDB`](https://github.com/seanpm2001/uOffice_LIBrary_WDB/) | Adds support for the `*.wdb` file format. | uOffice Data Complex |
+| 0066 | [:octocat: `uOffice LIBrary WPS`](https://github.com/seanpm2001/uOffice_LIBrary_WPS/) | Adds support for the `*.wps` file format. | uOffice WordProc |
+| 0067 | [:octocat: `uOffice LIBrary WRI`](https://github.com/seanpm2001/uOffice_LIBrary_WRI/) | Adds support for the `*.wri` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -99,7 +101,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Friday, November 8th`
+> **List last updated on:** `2024, Monday, November 11th`
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -168,6 +170,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0063 | VSD | `*.vsd` | Microsoft Visio Drawing file (Prior to Microsoft Office 2007) (Graphics file) |
 | 0064 | VSDX | `*.vsdx` | Microsoft Visio Drawing file (Microsoft Office 2007 and up) (Graphics file) |
 | 0065 | WDB | `*.wdb` | Microsoft Works Database file (Database file) |
+| 0066 | WPS | `*.wps` | Microsoft Works Word Processor document file (Rich Text Format document file) |
+| 0067 | WRI | `*.wri` | Microsoft Write document file (Rich Text Format document file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -186,12 +190,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `31 (2024, Friday, November 8th at 07:12 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,917` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,659` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `040,239` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `034,006` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `040,275` <!-- TODO: This line should be updated daily !-->
+- **File version:** `32 (2024, Monday, November 11th at 02:55 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,942` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,824` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `041,394` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `034,979` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `041,430` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -859,6 +863,27 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 31
 
 </details> <!-- End of V31 !-->
+
+---
+
+### Version 32 (2024, Monday, November 11th at 02:55 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 32</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
+
+</details> <!-- End of V32 !-->
 
 ---
 
