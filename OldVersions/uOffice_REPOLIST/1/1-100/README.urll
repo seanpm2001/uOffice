@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Friday, November 8th
+//// As of 2024, Monday, November 11th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -39,7 +39,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (67)
+//// LIBraries (69)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -108,10 +108,12 @@ https://github.com/seanpm2001/uOffice_LIBrary_SXW
 https://github.com/seanpm2001/uOffice_LIBrary_VSD
 https://github.com/seanpm2001/uOffice_LIBrary_VSDX
 https://github.com/seanpm2001/uOffice_LIBrary_WDB
+https://github.com/seanpm2001/uOffice_LIBrary_WPS
+https://github.com/seanpm2001/uOffice_LIBrary_WRI
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 80
-//// 5+2+1+1+2+2+67=80
+//// Repo count (uOffice): 82
+//// 5+2+1+1+2+2+69=82
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -131,15 +133,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 85
-//// 80+5=85
+//// Total repo count: 87
+//// 82+5=87
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 33 (2024, Friday, November 8th at 07:10 pm PST)
-//// Line count (including blank lines and compiler line): 146
+//// File version: 34 (2024, Monday, November 11th at 02:54 pm PST)
+//// Line count (including blank lines and compiler line): 148
 //// ----------------------------------------------------- \\\\
 
 //// End of file
