@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Monday, November 11th`
+> **List last updated on:** `2024, Tuesday, November 12th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -90,6 +90,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0065 | [:octocat: `uOffice LIBrary WDB`](https://github.com/seanpm2001/uOffice_LIBrary_WDB/) | Adds support for the `*.wdb` file format. | uOffice Data Complex |
 | 0066 | [:octocat: `uOffice LIBrary WPS`](https://github.com/seanpm2001/uOffice_LIBrary_WPS/) | Adds support for the `*.wps` file format. | uOffice WordProc |
 | 0067 | [:octocat: `uOffice LIBrary WRI`](https://github.com/seanpm2001/uOffice_LIBrary_WRI/) | Adds support for the `*.wri` file format. | uOffice WordProc |
+| 0068 | [:octocat: `uOffice LIBrary DJVU`](https://github.com/seanpm2001/uOffice_LIBrary_DJVU/) | Adds support for the `*.djvu` file format. | uOffice WordProc |
+| 0069 | [:octocat: `uOffice LIBrary UDOC`](https://github.com/seanpm2001/uOffice_LIBrary_UDOC/) | Adds support for the `*.udoc` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -101,7 +103,9 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Monday, November 11th`
+> **List last updated on:** `2024, Tuesday, November 12th`
+
+<!-- TODO Add other office suite compatibility !-->
 
 | 🔃️ Order | File type | File format | Definition |
 |---|---|---|---|
@@ -170,10 +174,112 @@ Below is a listing of uOffice document support LIBraries.
 | 0063 | VSD | `*.vsd` | Microsoft Visio Drawing file (Prior to Microsoft Office 2007) (Graphics file) |
 | 0064 | VSDX | `*.vsdx` | Microsoft Visio Drawing file (Microsoft Office 2007 and up) (Graphics file) |
 | 0065 | WDB | `*.wdb` | Microsoft Works Database file (Database file) |
-| 0066 | WPS | `*.wps` | Microsoft Works Word Processor document file (Rich Text Format document file) |
+| 0066 | WPS | `*.wps` | Microsoft Works Word Processor document file (Rich Text Format document file) Kingsoft Writer Document (Rich Text Format document file) |
 | 0067 | WRI | `*.wri` | Microsoft Write document file (Rich Text Format document file) |
+| 0068 | DJVU | `*.djvu` | DjVu image document file (Graphics file) (also: Document file) |
+| 0069 | UDOC | `*.udoc` | Ultimate Office Document file (Rich Text Format file) |
 
 > **Note** This list is also ordered by repository creation date.
+
+</details> <!-- End of Mimetype definitions section !-->
+
+***
+
+## Software list
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Software list section</b></p></summary>
+
+> **List last updated on:** `2024, Tuesday, November 12th`
+
+TODO: List versions
+
+| 💾️ Software name | 📑️ Category | 💳️ Model | 🧑‍💻️ Developer |
+|---|---|---|---|
+| AndrOpen Office | Office Suite | FOSS/FLOSS | AndrOpenOffice developers |
+| AndrOpen Office Calc | Spreadsheet manager | FOSS/FLOSS | AndrOpenOffice developers |
+| AndrOpen Office Draw | Graphics editor | FOSS/FLOSS | AndrOpenOffice developers |
+| AndrOpen Office Impress | Presentation manager | FOSS/FLOSS | AndrOpenOffice developers |
+| AndrOpen Office Math | Formula editor/viewer | FOSS/FLOSS | AndrOpenOffice developers |
+| AndrOpen Office Writer | Word processor | FOSS/FLOSS | AndrOpenOffice developers |    
+| Apache OpenOffice | Office Suite | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Base | Database manager | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Calc | Spreadsheet manager | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Draw | Graphics editor | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Impress | Presentation manager | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Math | Formula viewer/editor | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice Writer | Word Processor | FOSS/FLOSS | Apache Software Foundation |
+| Calibre | eBook reader/word processor | FOSS/FLOSS | Kovid Goyal |
+| Google Suite/GSuite/Google Docs Editors | Office suite | Closed source, free | Google LLC |
+| Google Docs | Word processor | Closed source, free | Google LLC |
+| Google Drawings | Graphics editor | Closed source, free | Google LLC |
+| Google Forms | Form manager | Closed source, free | Google LLC |
+| Google Keep | Note manager | Closed source, free | Google LLC |
+| Google Sheets | Spreadsheet manager | Closed source, free | Google LLC |
+| Google Slides | Presentation manager | Closed source, free | Google LLC |
+| iWork | Office Suite | Closed source, Paid | Apple Inc. |
+| iWork Keynote | Presentation manager | Closed source, Paid | Apple Inc. |
+| iWork Numbers | Spreadsheet manager | Closed source, Paid | Apple Inc. |
+| iWork Pages | Word Processor | Closed source, Paid | Apple Inc. |
+| Kingsoft WPS Office | Office suite | Closed source, free | Kingsoft |
+| Kingsoft WPS Office PDF Viewer | Document viewer | Closed source, free | Kingsoft |
+| Kingsoft WPS Office Presentation | Presentation Manager | Closed source, free | Kingsoft |
+| Kingsoft WPS Office Spreadsheets | Spreadsheet manager | Closed source, free | Kingsoft |
+| Kingsoft WPS Office Writer | Word Processor | Closed source, free | Kingsoft |
+| LibreOffice | Office Suite | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Base | Database manager | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Calc | Spreadsheet manager | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Drawing | Graphics editor | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Impress | Presentation manager | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Math | Formula editor | FOSS/FLOSS | The Document Foundation |
+| LibreOffice Writer | Document viewer/editor | FOSS/FLOSS | The Document Foundation |
+| Microsoft Office | Office Suite | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Access | Database Manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Excel | Spreadsheet Manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office OneNote | Note manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office PowerPoint | Presentation viewer | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Visio | Diagram viewer/editor | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Word | Word Processor | Closed source, Paid | Microsoft Corporation |
+| Okular | Document viewer | FOSS/FLOSS | KDE |
+| uOffice | Office suite | FOSS/FLOSS | Seanpm2001/uOffice |
+| uOffice Data Complex | Database manager | FOSS/FLOSS | Seanpm2001/uOffice |
+| uOffice Presentation | Presentation viewer | FOSS/FLOSS | Seanpm2001/uOffice |
+| uOffice Spreaded | Spreadsheet manager | FOSS/FLOSS | Seanpm2001/uOffice |
+| uOffice WordProc | Document viewer/editor | FOSS/FLOSS | Seanpm2001/uOffice |
+
+> **Note** This list is ordered A-Z
+
+<!-- WIP: TODO: Add next:
+CorelDRAW
+Corel Home Office
+WordPerfect
+Quattro Pro
+Boeing Calc
+Microsoft Works
+Gnumeric
+Go-oo
+StarOffice Base
+StarOffice Calc
+StarOffice Draw
+StarOffice Impress
+StarOffice Math
+StarOffice Writer
+Collabora Online
+Collabora Calc
+Collabora Charts
+Collabora Draw
+Collabora Impress
+Collabora Writer
+NeoOffice Word Processor
+NeoOffice Spreadsheet
+NeoOffice Presentation
+NeoOffice Graphics
+NeoOffice Database
+NeoOffice Formula
+IBM Lotus Symphony
+IBM Lotus Symphony Documents
+IBM Lotus Symphony Presentations
+IBM Lotus Symphony Spreadsheets
+!-->
 
 </details> <!-- End of Mimetype definitions section !-->
 
@@ -190,12 +296,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `32 (2024, Monday, November 11th at 02:55 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,942` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,824` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `041,394` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `034,979` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `041,430` <!-- TODO: This line should be updated daily !-->
+- **File version:** `33 (2024, Tuesday, November 12th at 06:01 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `01,071` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `06,599` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `047,753` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `040,312` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `047,814` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -206,7 +312,7 @@ Below is a listing of uOffice document support LIBraries.
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**1
 
 </details> <!-- End of file info section !-->
 
@@ -884,6 +990,29 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 32
 
 </details> <!-- End of V32 !-->
+
+---
+
+### Version 33 (2024, Tuesday, November 12th at 06:01 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 33</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added the `Software list` section
+- - [x] Added the first 50 entries
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `Mimetype definitions` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 33
+- [ ] No other changes in version 33
+
+</details> <!-- End of V33 !-->
 
 ---
 
