@@ -189,7 +189,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Software list section</b></p></summary>
 
-> **List last updated on:** `2024, Tuesday, November 12th`
+> **List last updated on:** `2024, Wednesday, November 13th`
 
 TODO: List versions
 
@@ -201,14 +201,40 @@ TODO: List versions
 | AndrOpen Office Impress | Presentation manager | FOSS/FLOSS | AndrOpenOffice developers |
 | AndrOpen Office Math | Formula editor/viewer | FOSS/FLOSS | AndrOpenOffice developers |
 | AndrOpen Office Writer | Word processor | FOSS/FLOSS | AndrOpenOffice developers |    
-| Apache OpenOffice | Office Suite | FOSS/FLOSS | Apache Software Foundation |
+| Apache OpenOffice (also known as OpenOffice.org) | Office Suite | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Base | Database manager | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Calc | Spreadsheet manager | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Draw | Graphics editor | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Impress | Presentation manager | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Math | Formula viewer/editor | FOSS/FLOSS | Apache Software Foundation |
 | Apache OpenOffice Writer | Word Processor | FOSS/FLOSS | Apache Software Foundation |
+| Boeing Calc | Spreadsheet manager | Closed source, paid | Boeing Computer Services co |
 | Calibre | eBook reader/word processor | FOSS/FLOSS | Kovid Goyal |
+| Calligra | Office Suite | FOSS/FLOSS | KDE |
+| Calligra Author | eBook publisher | FOSS/FLOSS | KDE |
+| Calligra Braindump | Flow chart manager | FOSS/FLOSS | KDE |
+| Calligra Flow | Note taking tool | FOSS/FLOSS | KDE |
+| Calligra Karbon | Graphics editor | FOSS/FLOSS | KDE |
+| Calligra Krita | Graphics editor | FOSS/FLOSS | KDE |
+| Calligra KEXI | Database manager | FOSS/FLOSS | KDE |
+| Calligra Plan | Project manager | FOSS/FLOSS | KDE |
+| Calligra Sheets | Spreadsheet manager | FOSS/FLOSS | KDE |
+| Calligra Stage | Presentation manager | FOSS/FLOSS | KDE |
+| Calligra Words | Word processor | FOSS/FLOSS | KDE |
+| Collabora Online | Office Suite | FOSS/FLOSS | Collabora Productivity Ltd. |
+| Collabora Calc | Spreadsheet Manager | FOSS/FLOSS | Collabora Productivity Ltd. |
+| Collabora Draw | Graphics editor | FOSS/FLOSS | Collabora Productivity Ltd. |
+| Collabora Impress | Presentation Manager | FOSS/FLOSS | Collabora Productivity Ltd. |
+| Collabora Writer | Word Processor | FOSS/FLOSS | Collabora Productivity Ltd. |
+| CorelDRAW | Graphics editor | Closed source, paid | Alludo |
+| DataPerfect | Database manager | Closed source, paid | WordPerfect Corporation |
+| Gnumeric | Spreadsheet Manager | FOSS/FLOSS | The GNOME Project |
+| Go-oo | Office Suite | FOSS/FLOSS | Novell |
+| Go-oo Calc | Spreadsheet manager | FOSS/FLOSS | Novell |
+| Go-oo Draw | Graphics editor | FOSS/FLOSS | Novell |
+| Go-oo Impress | Presentation manager | FOSS/FLOSS | Novell |
+| Go-oo Math | Formula editor | FOSS/FLOSS | Novell |
+| Go-oo Writer | Word Processor | FOSS/FLOSS | Novell |
 | Google Suite/GSuite/Google Docs Editors | Office suite | Closed source, free | Google LLC |
 | Google Docs | Word processor | Closed source, free | Google LLC |
 | Google Drawings | Graphics editor | Closed source, free | Google LLC |
@@ -216,15 +242,32 @@ TODO: List versions
 | Google Keep | Note manager | Closed source, free | Google LLC |
 | Google Sheets | Spreadsheet manager | Closed source, free | Google LLC |
 | Google Slides | Presentation manager | Closed source, free | Google LLC |
+| IBM Lotus Symphony | Office Suite | Closed source, paid | International Business Machines (IBM) |
+| IBM Lotus Symphony Documents | Word Processor | Closed source, paid | International Business Machines (IBM) |
+| IBM Lotus Symphony Presentations | Presentation Manager | Closed source, paid | International Business Machines (IBM) |
+| IBM Lotus Symphony Spreadsheets | Spreadsheet maanger | Closed source, paid | International Business Machines (IBM) |
 | iWork | Office Suite | Closed source, Paid | Apple Inc. |
 | iWork Keynote | Presentation manager | Closed source, Paid | Apple Inc. |
 | iWork Numbers | Spreadsheet manager | Closed source, Paid | Apple Inc. |
 | iWork Pages | Word Processor | Closed source, Paid | Apple Inc. |
+| iWork | Office Suite | Closed source, Paid | Apple Inc. |
 | Kingsoft WPS Office | Office suite | Closed source, free | Kingsoft |
 | Kingsoft WPS Office PDF Viewer | Document viewer | Closed source, free | Kingsoft |
 | Kingsoft WPS Office Presentation | Presentation Manager | Closed source, free | Kingsoft |
 | Kingsoft WPS Office Spreadsheets | Spreadsheet manager | Closed source, free | Kingsoft |
 | Kingsoft WPS Office Writer | Word Processor | Closed source, free | Kingsoft |
+| KOffice | Office Suite | FOSS/FLOSS | KDE |
+| KOffice Karbon14 | Graphics editor | FOSS/FLOSS | KDE |
+| KOffice KChart | Chart manager | FOSS/FLOSS | KDE |
+| KOffice KFormula | Formula editor |  FOSS/FLOSS | KDE |
+| KOffice KEXI | Database manager | FOSS/FLOSS | KDE |
+| KOffice KPlato | Project management | FOSS/FLOSS | KDE |
+| KOffice KPresenter | Presentation manager | FOSS/FLOSS | KDE |
+| KOffice Krita | Graphics editor | FOSS/FLOSS | KDE |
+| KOffice KSpread | Spreadsheet manager | FOSS/FLOSS | KDE |
+| KOffice Kugar | Report generator | FOSS/FLOSS | KDE |
+| KOffice KWord | Word processor | FOSS/FLOSS | KDE |
+| LetterPerfect | Word Processor | Closed source, paid | WordPerfect Corporation |
 | LibreOffice | Office Suite | FOSS/FLOSS | The Document Foundation |
 | LibreOffice Base | Database manager | FOSS/FLOSS | The Document Foundation |
 | LibreOffice Calc | Spreadsheet manager | FOSS/FLOSS | The Document Foundation |
@@ -232,19 +275,51 @@ TODO: List versions
 | LibreOffice Impress | Presentation manager | FOSS/FLOSS | The Document Foundation |
 | LibreOffice Math | Formula editor | FOSS/FLOSS | The Document Foundation |
 | LibreOffice Writer | Document viewer/editor | FOSS/FLOSS | The Document Foundation |
+| Lotus 1-2-3 | Spreadsheet manager | Closed source, paid | Lotus software |
 | Microsoft Office | Office Suite | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office Access | Database Manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Bookings | Scheduling/bookings Manager | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office Excel | Spreadsheet Manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Forms | Survey creator | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office OneNote | Note manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Planner | Project planning | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office PowerPoint | Presentation viewer | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Project | Project manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Publisher | Publishing tool | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office SharePoint | Knowledge Management | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Stream | Video service for office | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office Sway | Presentation manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Office To Do | To-do List manager | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office Visio | Diagram viewer/editor | Closed source, Paid | Microsoft Corporation |
 | Microsoft Office Word | Word Processor | Closed source, Paid | Microsoft Corporation |
+| Microsoft Works | Office Suite | Closed source, Paid | Microsoft Corporation |
+| Microsoft Works Word Processor | Word Processor | Closed source, Paid | Microsoft Corporation |
+| Microsoft Works Spreadsheet manager | Spreadsheet manager | Closed source, Paid | Microsoft Corporation |
+| Microsoft Works Database Manager | Database Manager | Closed source, Paid | Microsoft Corporation |
+| NeoOffice | Office Suite | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Word Processor | Word Processor | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Spreadsheet | Spreadsheet manager | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Presentation | Presentation manager | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Graphics | Graphics editor | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Database | Database manager | FOSS/FLOSS | Planamesa Software |
+| NeoOffice Formula | Formula editor | FOSS/FLOSS | Planamesa Software |
 | Okular | Document viewer | FOSS/FLOSS | KDE |
+| Quattro Pro | Spreadsheet manager | Closed source, paid | Borland |
+| StarOffice | Office Suite | Closed source, paid | Oracle Corporation |
+| StarOffice Base | Database manager | Closed source, paid | Oracle Corporation |
+| StarOffice Calc | Spreadsheet manager | Closed source, paid | Oracle Corporation |
+| StarOffice Draw | Graphics editor | Closed source, paid | Oracle Corporation |
+| StarOffice Impress | Presentation manager | Closed source, paid | Oracle Corporation |
+| StarOffice Math | Formula editor | Closed source, paid | Oracle Corporation |
+| StarOffice Writer | Word processor | Closed source, paid | Oracle Corporation |
 | uOffice | Office suite | FOSS/FLOSS | Seanpm2001/uOffice |
 | uOffice Data Complex | Database manager | FOSS/FLOSS | Seanpm2001/uOffice |
 | uOffice Presentation | Presentation viewer | FOSS/FLOSS | Seanpm2001/uOffice |
 | uOffice Spreaded | Spreadsheet manager | FOSS/FLOSS | Seanpm2001/uOffice |
 | uOffice WordProc | Document viewer/editor | FOSS/FLOSS | Seanpm2001/uOffice |
+| VisiCalc | Spreadsheet manager | Closed source, paid | Apple Computer Company |
+| WordPerfect Office | Office Suite | Closed source, paid | WordPerfect Corporation |
+| WordPerfect | Word Processor | Closed source, paid | Alludo |
 
 > **Note** This list is ordered A-Z
 
@@ -253,32 +328,69 @@ CorelDRAW
 Corel Home Office
 WordPerfect
 Quattro Pro
-Boeing Calc
 Microsoft Works
 Gnumeric
 Go-oo
-StarOffice Base
-StarOffice Calc
-StarOffice Draw
-StarOffice Impress
-StarOffice Math
-StarOffice Writer
-Collabora Online
-Collabora Calc
-Collabora Charts
-Collabora Draw
-Collabora Impress
-Collabora Writer
-NeoOffice Word Processor
-NeoOffice Spreadsheet
-NeoOffice Presentation
-NeoOffice Graphics
-NeoOffice Database
-NeoOffice Formula
+!-->
+
+<!-- 2024.11.13 Notes
+Calibre
+iWork
+Google Docs
 IBM Lotus Symphony
-IBM Lotus Symphony Documents
-IBM Lotus Symphony Presentations
-IBM Lotus Symphony Spreadsheets
+NeoOffice
+Collabora Online
+StarOffice
+OpenOffice.org
+Go-oo
+Gnumeric
+Microsoft Works Word Processor
+Microsoft Works Spreadsheet manager
+Microsoft Works Database Manager
+Quattro Pro (spreadsheet manager)
+WordPerfect
+CorelDRAW
+SharePoint (knowledge management)
+Microsoft Publisher (publishing software)
+Microsoft Project (project management)
+Microsoft Sway (presentation manager)
+Microsoft Forms (survey creator)
+Microsoft To Do (todo list)
+Microsoft Planner (planning program)
+Microsoft Stream (video service)
+Microsoft Bookings (scheduling)
+Lotus 1-2-3 (spreadsheet manager)
+VisiCalc (spreadsheet manager)
+
+Boeing Calc (spreadsheet manager)
+Calligra Words
+ 	Words 	A word processor with the ability to edit and save ISO/IEC 26300 OpenDocument Text (.odt) as part of OpenDocument Type ISO standard.
+	Sheets 	A spreadsheet program, formerly known as KSpread and Calligra Tables.
+	Stage 	A presentation program. It was removed in Calligra 3.0,[51] but returned in Calligra 3.2.[52]
+	Kexi 	KEXI is a visual database applications creator. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design.
+	Plan 	A project management application that can create Gantt charts. Formerly known as KPlato.
+	Karbon 	A vector graphics editor, formerly known as Karbon14.[53]
+Former list of components[54] Icon 	Name 	Description
+	Braindump 	A digital notetaking tools, similar to Microsoft OneNote. It was removed in Calligra 3.0[51]
+	Flow 	A programmable flowchart drawing program with dynamically loadable stencils, successor of koffice Kivio (though it could not load/import kivio files). It was removed in Calligra 3.0,[51] then was retired and replaced by Karbon in 3.2.0.[55]
+	Krita 	A digital painting program with some image editing features. Formerly known as Krayon and KImageshop. It was removed from Calligra 3.0 after becoming an independent product.[51]
+	Author 	An e-book authoring application like iBooks Author[56] with EPUB export, introduced with Calligra Suite 2.6.[57][58][59] It was removed in Calligra 3.0[51]
+
+KOffice
+ 	KWord 	A word processor with style sheets and frame-support for DTP-style editing of complex layouts.
+	KSpread 	A spreadsheet application with multiple sheet support, templates and more than 100 mathematical formulae.
+	KPresenter 	A presentation program with image and effect support.
+	Kexi 	An integrated data management application, designed as a Microsoft Access or FileMaker competitor. It can be used for designing and implementing databases, inserting and processing data and performing queries. It has limited compatibility with the MS Access file format.
+	Karbon14 	A vector drawing application with a variety of drawing and editing tools – formerly known as Kontour and KIllustrator.[2]
+	Krita 	A digital painting program, with some image processing features – formerly known as Krayon and KImageshop.
+	KChart 	Integrated report and chart generator.
+	KFormula 	An integrated mathematical formula editor.
+	KPlato 	A project management application that can create Gantt-style charts. 
+	
+	Kugar (report generator)
+
+Alludo
+Clickteam
 !-->
 
 </details> <!-- End of Mimetype definitions section !-->
@@ -296,12 +408,12 @@ IBM Lotus Symphony Spreadsheets
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `33 (2024, Tuesday, November 12th at 06:01 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `01,071` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `06,599` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `047,753` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `040,312` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `047,814` <!-- TODO: This line should be updated daily !-->
+- **File version:** `34 (2024, Wednesday, November 13th at 04:03 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `01,201` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,777` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `056,912` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `047,491` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `056,981` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1014,6 +1126,24 @@ IBM Lotus Symphony Spreadsheets
 
 </details> <!-- End of V33 !-->
 
+---
+
+### Version 34 (2024, Wednesday, November 13th at 04:03 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 34</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Software list` section
+- - [x] Added 75 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 34
+- [ ] No other changes in version 34
+
+</details> <!-- End of V34 !-->
 ---
 
 _End of file history section._
