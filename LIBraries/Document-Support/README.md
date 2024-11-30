@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Tuesday, November 12th`
+> **List last updated on:** `2024, Friday, November 29th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -92,6 +92,7 @@ Below is a listing of uOffice document support LIBraries.
 | 0067 | [:octocat: `uOffice LIBrary WRI`](https://github.com/seanpm2001/uOffice_LIBrary_WRI/) | Adds support for the `*.wri` file format. | uOffice WordProc |
 | 0068 | [:octocat: `uOffice LIBrary DJVU`](https://github.com/seanpm2001/uOffice_LIBrary_DJVU/) | Adds support for the `*.djvu` file format. | uOffice WordProc |
 | 0069 | [:octocat: `uOffice LIBrary UDOC`](https://github.com/seanpm2001/uOffice_LIBrary_UDOC/) | Adds support for the `*.udoc` file format. | uOffice WordProc |
+| 0070 | [:octocat: `uOffice LIBrary ACCDB`](https://github.com/seanpm2001/uOffice_LIBrary_ACCDB/) | Adds support for the `*.accdb` file format. | uOffice Data Complex |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -103,7 +104,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Tuesday, November 12th`
+> **List last updated on:** `2024, Friday, November 29th`
 
 <!-- TODO Add other office suite compatibility !-->
 
@@ -178,6 +179,7 @@ Below is a listing of uOffice document support LIBraries.
 | 0067 | WRI | `*.wri` | Microsoft Write document file (Rich Text Format document file) |
 | 0068 | DJVU | `*.djvu` | DjVu image document file (Graphics file) (also: Document file) |
 | 0069 | UDOC | `*.udoc` | Ultimate Office Document file (Rich Text Format file) |
+| 0070 | ACCDB | `*.accdb` | Microsoft Access database file (Microsoft Office 2007 and up) (Database file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -408,12 +410,12 @@ Clickteam
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `34 (2024, Wednesday, November 13th at 04:03 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `01,201` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,777` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `056,912` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `047,491` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `056,981` <!-- TODO: This line should be updated daily !-->
+- **File version:** `35 (2024, Friday, November 29th at 07:58 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `01,223` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,899` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `057,745` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `048,640` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `057,814` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1144,6 +1146,26 @@ Clickteam
 - [ ] No other changes in version 34
 
 </details> <!-- End of V34 !-->
+
+---
+
+### Version 35 (2024, Friday, November 29th at 07:58 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 35</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 1 new entry
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 35
+- [ ] No other changes in version 35
+
+</details> <!-- End of V35 !-->
+
 ---
 
 _End of file history section._
