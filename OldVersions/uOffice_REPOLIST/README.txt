@@ -2,7 +2,7 @@
 //// uOffice_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all uOffice repositories by @seanpm2001
-//// As of 2024, Friday, November 29th
+//// As of 2024, Wednesday, December 4th
 
 //// ----------------------------------------------------- \\\\
 //// uOffice
@@ -16,10 +16,13 @@ https://github.com/seanpm2001/uOffice_Spreaded
 https://github.com/seanpm2001/uOffice_Presentation
 https://github.com/seanpm2001/uOffice_Data-Complex
 
-//// Documentation (2)
+//// Documentation (5)
 
 https://github.com/seanpm2001/uOffice_Docs
 https://github.com/seanpm2001/uOffice_WordProc_Docs
+https://github.com/seanpm2001/uOffice_Presentation_Docs
+https://github.com/seanpm2001/uOffice_Data-Complex_Docs
+https://github.com/seanpm2001/uOffice_Spreaded_Docs
 
 //// Packages (1)
 
@@ -39,7 +42,7 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 
-//// LIBraries (72)
+//// LIBraries (75)
 
 https://github.com/seanpm2001/uOffice_LIBrary_DVCS
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
@@ -113,10 +116,13 @@ https://github.com/seanpm2001/uOffice_LIBrary_WRI
 https://github.com/seanpm2001/uOffice_LIBrary_DJVU
 https://github.com/seanpm2001/uOffice_LIBrary_UDOC
 https://github.com/seanpm2001/uOffice_LIBrary_ACCDB
+https://github.com/seanpm2001/uOffice_LIBrary_USPREAD
+https://github.com/seanpm2001/uOffice_LIBrary_USHEET
+https://github.com/seanpm2001/uOffice_LIBrary_UDBASE
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (uOffice): 85
-//// 5+2+1+1+2+2+72=85
+//// Repo count (uOffice): 91
+//// 5+5+1+1+2+2+75=91
 //// ----------------------------------------------------- \\\\
 
 //// Related (5)
@@ -136,15 +142,15 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 90
-//// 85+5=90
+//// Total repo count: 96
+//// 91+5=96
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 36 (2024, Friday, November 29th at 07:57 pm PST)
-//// Line count (including blank lines and compiler line): 151
+//// File version: 37 (2024, Wednesday, December 4th at 06:35 pm PST)
+//// Line count (including blank lines and compiler line): 157
 //// ----------------------------------------------------- \\\\
 
 //// End of file
