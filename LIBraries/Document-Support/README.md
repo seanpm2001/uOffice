@@ -19,7 +19,7 @@ Below is a listing of uOffice document support LIBraries.
 |---|
 | _GitHub mirrors_ |
 
-> **List last updated on:** `2024, Wednesday, December 4th`
+> **List last updated on:** `2024, Thursday, December 26th`
 
 | 🔃️ Order | :octocat: GitHub mirror 🪞️ | ℹ️ Purpose | 💾️ Application |
 |---|---|---|---|
@@ -96,6 +96,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0071 | [:octocat: `uOffice LIBrary USPREAD`](https://github.com/seanpm2001/uOffice_LIBrary_USPREAD/) | Adds support for the `*.uspread` file format. | uOffice Spreaded |
 | 0072 | [:octocat: `uOffice LIBrary USHEET`](https://github.com/seanpm2001/uOffice_LIBrary_USHEET/) | Adds support for the `*.usheet` file format. | uOffice Spreaded |
 | 0073 | [:octocat: `uOffice LIBrary UDBASE`](https://github.com/seanpm2001/uOffice_LIBrary_UDBASE/) | Adds support for the `*.udbase` file format. | uOffice Spreaded |
+| 0074 | [:octocat: `uOffice LIBrary UDRWING`](https://github.com/seanpm2001/uOffice_LIBrary_UDRWING/) | Adds support for the `*.udrwing` file format. | uOffice Presentation, uOffice Data Complex |
+| 0075 | [:octocat: `uOffice LIBrary DJV`](https://github.com/seanpm2001/uOffice_LIBrary_DJV/) | Adds support for the `*.djv` file format. | uOffice WordProc |
 
 > **Note** This list is ordered by repository creation date.
 
@@ -107,7 +109,7 @@ Below is a listing of uOffice document support LIBraries.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the mimetype definitions section</b></p></summary>
 
-> **List last updated on:** `2024, Wednesday, December 4th`
+> **List last updated on:** `2024, Thursday, December 26th`
 
 <!-- TODO Add other office suite compatibility !-->
 
@@ -186,6 +188,8 @@ Below is a listing of uOffice document support LIBraries.
 | 0071 | USPREAD | `*.uspread` | uOffice Spreaded spreadsheet file (Spreadsheet file) |
 | 0072 | USHEET | `*.usheet` | uOffice Spreaded spreadsheet template file (Database file) (Also: Template file) |
 | 0073 | UDBASE | `*.udbase` | uOffice Data Complex Database file (Database file) |
+| 0074 | UDRWING | `*.udrwing` | uOffice Drawing file (Graphics file) |
+| 0075 | DJV | `*.djv` | DjVu image document file (Graphics file) (also: Document file) |
 
 > **Note** This list is also ordered by repository creation date.
 
@@ -416,12 +420,12 @@ Clickteam
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `36 (2024, Wednesday, December 4th at 06:37 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `01,248` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,080` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `059,109` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `049,806` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `059,178` <!-- TODO: This line should be updated daily !-->
+- **File version:** `37 (2024, Thursday, December 26th at 07:47 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `01,271` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `08,231` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `060,191` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `050,723` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `060,260` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1190,6 +1194,25 @@ Clickteam
 - [ ] No other changes in version 36
 
 </details> <!-- End of V36 !-->
+
+---
+
+### Version 37 (2024, Thursday, December 26th at 07:47 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 37</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Individual file formats` section
+- - [x] Added 2 new entries
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- End of V37 !-->
 
 ---
 
